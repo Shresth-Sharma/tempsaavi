@@ -37,7 +37,7 @@ if(window.scrollY==0){
 }
 else{
     document.getElementById('cssfile').href = 'css/main1.css';
-    document.getElementById('back').src = '/images/back1.png';
+    document.getElementById('back').src = 'images/back1.png';
     document.getElementById('name2').innerHTML = 'Online Platform For'
     
     a = 0
